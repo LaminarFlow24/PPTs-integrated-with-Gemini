@@ -20,7 +20,7 @@ import numpy as np
 import google.generativeai as genai
 
 #API key for google generative ai
-genai.configure(api_key="AIzaSyAbmk1egr1Vpu-2qksGJKueoEMuGJkO-4Y")
+genai.configure(api_key="")
 
 
 import cv2 as cv2
